@@ -48,8 +48,8 @@
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F17%2F3%2F6%2Fn8879818.htm&from=wnel">◆《大纪元时报》特刊：共产党百年真相</a><br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F15%2F11%2F2%2Fn4564327.htm&from=wnel">◆【特稿】感情代替不了理智</a><br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F17%2F2%2F9%2Fn8792816.htm&from=wnel">◆【特稿】共产主义不是出路而是绝路</a><br/>
-如打开慢，缓冲稍等或刷新<br/>
-  </tr>
+c
+  </tr>
   <tr>
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/共产邪灵.jpg" /></td><br/>
   </tr>
@@ -77,6 +77,17 @@
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c812504&from=wnel">◆◆共产主义是世界上最大邪教</a><br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c813248&from=wnel
 ">◆◆马列主义是毒药</a><br/>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogST.aspx?from=wnel-3T">◆◆◆请点击在线快速办理◆◆◆</a><br/>
+如打开慢，缓冲稍等或刷新<br/>
+  </tr>
+  <tr>
+<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/3%E9%80%80%E9%80%83%E5%A4%A7%E7%81%BE.jpg"/>       </tr>
+  <tr>
+   <td align=center>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FST&from=st?from=wnel">◆◆“三退”到底是件什么事？◆◆</a><br/>
+如打开慢，缓冲稍等或刷新<br/>
+  </tr>
+  <tr>
   </tr>
   <tr>
    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/3t.jpg"/></td><br/>
