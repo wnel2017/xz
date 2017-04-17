@@ -6,19 +6,19 @@
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/害国.jpg" /></td>
   </tr>
   <tr>
-      <td align=center>
+<td align=center>
+◆◆共产党百年真相◆◆<br/>
+◆◆中共迫害宗教、迫害西藏◆◆<br/>
 点下方网址，如打开慢，缓冲稍等或刷新<br/> 
-  </tr>
+   </tr>
   <tr>
-<td align=left>
- * 【共产党百年真相之中共迫害宗教】<br/>
- * 【共产党百年真相之中共迫害西藏】<br/>
+ <td align=left>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F17%2F3%2F3%2Fn8870896.htm&from=wnel">◆藏民大规模反抗中共的背后原因</a><br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F17%2F2%2F26%2Fn8850163.htm&from=wnel">◆上七万言书后坐监十年 十世班禅被毒杀
 </a><br/>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F17%2F2%2F27%2Fn8855307.htm&from=wnel">◆西藏文化被摧残 大昭寺作猪圈上师被批斗</a><br/>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F17%2F2%2F27%2Fn8855307.htm&from=wnel">◆摧残西藏文化 大昭寺作猪圈上师被批斗</a><br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F9%2F4%2F4%2Fn2485125.htm&from=wnel">◆中共的班禅</a><br/>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F11%2F9%2F27%2Fn3384356.htm&from=wnel">◆达赖称将来评估是否转世 中共无权干涉！</a><br/>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F11%2F9%2F27%2Fn3384356.htm&from=wnel">◆达赖称将来是否转世 中共无权干涉！</a><br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F9%2F3%2F11%2Fn2458116.htm&from=wnel">◆西藏简要受难史重温</a><br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F17%2F4%2F5%2Fn9004927.htm&from=wnel">◆关于西藏和达赖的最客观的评价</a><br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F16%2F9%2F14%2Fn8300895.htm&from=wnel">◆达赖喇嘛 站立在世界舞台的中心</a><br/>
@@ -40,7 +40,7 @@
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F15%2F5%2F20%2Fn4438579.htm&from=wnel
 ">◆《西藏白皮书》，中南海的标题学</a><br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F14%2F8%2F30%2Fn4236773.htm&from=wnel
-">◆西藏高原生态毁灭性破坏的后果是什么？</a><br/>
+">◆西藏高原生态毁灭性破坏后果是什么？</a><br/>
   </tr>
   <tr>
 <td align=left>◆百年共产党真相◆特稿<br/>
