@@ -78,11 +78,17 @@
 ">◆◆马列主义是毒药</a><br/>
   </tr>
   <tr>
-    <td align=center>
-全球近3亿人的幸运选择，珍贵机缘<br/>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogST.aspx?from=wnel-3T">请点击在线快速办理</a><br/>
-为你而来，这一次您千万别再错过～<br/>
+   <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/3t.jpg"/></td><br/>
   </tr>
+  <tr>
+   <td align=center>
+全球近3亿人的幸运选择，珍贵机缘<br/>
+为你而来，这一次您千万别再错过～<br/>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogST.aspx?from=wnel-3T">◆◆◆请点击在线快速办理◆◆◆</a><br/>
+如打开慢，缓冲稍等或刷新<br/>
+  </tr>
+  <tr>
+<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/3%E9%80%80%E9%80%83%E5%A4%A7%E7%81%BE.jpg"/>       </tr>
   <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/谎言.jpg" /></td><br/>
   </tr>
