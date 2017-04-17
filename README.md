@@ -3,7 +3,7 @@
       <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏.jpg" /></td>
   </tr>
   <tr>
-    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/害国.jpg" /></td>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏布达拉宫.jpg" /></td>
   </tr>
   <tr>
 <td align=center>
@@ -54,6 +54,9 @@
   </tr>
   <tr>
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏7年.jpg" /></td><br/>
+  </tr>
+  <tr>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/害国.jpg" /></td>
   </tr>
   <tr>
 <td align=left>◆百年共产党真相◆特稿<br/>
