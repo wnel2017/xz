@@ -51,12 +51,9 @@
 了解西藏与达赖喇嘛真实的历史<br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816510&from=wnel-tibet">请点击在线观看</a><br/>
 如打开慢，缓冲稍等或刷新<br/>
-  </tr>
-  <tr>
-<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏7年.jpg" /></td><br/>
   </tr>
   <tr>
-    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/害国.jpg" /></td>
+<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏7年.jpg" /></td><br/>
   </tr>
   <tr>
 <td align=left>◆百年共产党真相◆特稿<br/>
@@ -76,6 +73,9 @@
 ◆◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FBNGCD&from=wnel">百年共产党</a><br/>
 ◆◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816602&from=wnel">马克思的成魔之路</a><br/>
 如打开慢，缓冲稍等或刷新<br/>
+  </tr>
+  <tr>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/害国.jpg" /></td>
   </tr>
   <tr>
 <td align=left>
