@@ -44,7 +44,7 @@
 ">◆西藏高原生态毁灭性破坏后果是什么？</a><br/>
   </tr>
   <tr>
-<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏7年.jpg" /></td><br/>
+<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏7年1.jpg" /></td><br/>
   </tr>
   <tr>
 <td align=center>好莱坞大片◆西藏七年◆<br/>
