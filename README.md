@@ -71,7 +71,7 @@
   <tr>
       <td align=left>
  * 2017年全球热点专辑：震撼世人，引发巨变<br/>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FJP.mp4&from=wnel">◆◆◆九评共产党：全球热传18年！（必看）</a><br/>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FJP.mp4&from=wnel">◆◆九评共产党：全球热传18年（必看）</a><br/>
 ◆◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FMTDWH.mp4&from=wnel">漫谈党文化</a><br/>
 ◆◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?1D%2FJTDWH&from=wnel">解体党文化</a><br/>
 ◆◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FBNGCD&from=wnel">百年共产党</a><br/>
@@ -149,7 +149,7 @@
   </tr>
   <tr>
 <td align=center>◆免费  ◆安全  ◆快速  ◆绿色  ◆高速视频<br/>
-推荐谷歌、火狐浏览器，国产浏览器易干扰<br/>
+推荐谷歌或火狐浏览器，国产浏览器干扰<br/>
   </tr>
   <tr>
 <td align=center>网门网址 https://git.io/ogate 收藏浏览器<br/>
@@ -181,4 +181,5 @@
   </tr>
   <tr>
       <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E.jpg"/></td>
+
 </table>    
