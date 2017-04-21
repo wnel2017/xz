@@ -6,15 +6,15 @@
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏布达拉宫.jpg" /></td>
   </tr>
   <tr>
-<td align=center>
-◆◆共产党百年真相◆◆<br/>
-◆◆中共迫害宗教、迫害西藏◆◆<br/>
-   </tr>
-  <tr>
       <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E4.jpg"/></td>
   </tr>
   <tr>
  <td align=left>
+ <td align=center>
+◆◆共产党百年真相◆◆<br/>
+◆◆中共迫害宗教、迫害西藏◆◆<br/>
+   </tr>
+  <tr>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F17%2F3%2F3%2Fn8870896.htm&from=wnel-tibet">◆藏民大规模反抗中共的背后原因</a><br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F17%2F2%2F26%2Fn8850163.htm&from=wnel-tibet">◆上七万言书后坐监十年 十世班禅被毒杀
 </a><br/>
@@ -62,6 +62,7 @@
   <tr>
 <td align=left>◆百年共产党真相◆特稿<br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F17%2F3%2F6%2Fn8879818.htm&from=wnel">◆《大纪元时报》特刊：共产党百年真相</a><br/>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F17%2F4%2F20%2Fn9055656.htm&from=wnel">◆【特稿】迫害法轮功遭报应实录</a><br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F15%2F11%2F2%2Fn4564327.htm&from=wnel">◆【特稿】感情代替不了理智</a><br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F17%2F2%2F9%2Fn8792816.htm&from=wnel">◆【特稿】共产主义不是出路而是绝路</a><br/>
   </tr>
