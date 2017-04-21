@@ -43,7 +43,7 @@
 ">◆《西藏白皮书》，中南海的标题学</a><br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F14%2F8%2F30%2Fn4236773.htm&from=wnel-tibet
 ">◆西藏高原生态毁灭性破坏后果是什么？</a><br/>
-  </tr>
+  </tr>
   <tr>
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏7年1.jpg" /></td><br/>
   </tr>
@@ -65,7 +65,7 @@
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F17%2F4%2F20%2Fn9055656.htm&from=wnel">◆【特稿】迫害法轮功遭报应实录</a><br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F15%2F11%2F2%2Fn4564327.htm&from=wnel">◆【特稿】感情代替不了理智</a><br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F17%2F2%2F9%2Fn8792816.htm&from=wnel">◆【特稿】共产主义不是出路而是绝路</a><br/>
-  </tr>
+  </tr>
   <tr>
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/共产邪灵.jpg" /></td><br/>
   </tr>
