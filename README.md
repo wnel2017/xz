@@ -9,7 +9,6 @@
       <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E4.jpg"/></td>
   </tr>
   <tr>
- <td align=left>
  <td align=center>
 ◆◆共产党百年真相◆◆<br/>
 ◆◆中共迫害宗教、迫害西藏◆◆<br/>
