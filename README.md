@@ -87,7 +87,7 @@
   </tr>
   <tr>
 <td align=left>
-◆2017年全球热点文章<br/>
+◆◆2017年全球热点文章<br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c807209&from=wnel">◆◆中共害国，铁证如山</a><br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c813172&from=wnel">◆◆中共卖国，证据确凿</a><br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c813247&from=wnel">◆◆对中共无神论说“不”！</a><br/>
