@@ -11,11 +11,10 @@
 ◆◆中共迫害宗教、迫害西藏◆◆<br/>
    </tr>
   <tr>
-      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E1.jpg"/></td>
+      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E4.jpg"/></td>
   </tr>
   <tr>
  <td align=left>
-点下方网址，如打开慢，缓冲稍等或刷新<br/> 
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F17%2F3%2F3%2Fn8870896.htm&from=wnel-tibet">◆藏民大规模反抗中共的背后原因</a><br/>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F140%2Fgb%2F17%2F2%2F26%2Fn8850163.htm&from=wnel-tibet">◆上七万言书后坐监十年 十世班禅被毒杀
 </a><br/>
@@ -55,6 +54,7 @@
 如打开慢，缓冲稍等或刷新<br/>
 微信如果提示：停止访问该网页<br/>
 请点击右上角，选择浏览器打开<br/>
+苹果用户复制到自带浏览器打开<br/>
   </tr>
   <tr>
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏7年.jpg" /></td><br/>
@@ -79,6 +79,7 @@
 如打开慢，缓冲稍等或刷新<br/>
 微信如果提示：停止访问该网页<br/>
 请点击右上角，选择浏览器打开<br/>
+苹果用户复制到自带浏览器打开<br/>
   </tr>
   <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/害国.jpg" /></td>
@@ -108,6 +109,7 @@
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogST.aspx?from=wnel-3T">◆◆◆请点击在线快速办理◆◆◆</a><br/>
 微信如果提示：停止访问该网页<br/>
 请点击右上角，选择浏览器打开<br/>
+苹果用户复制到自带浏览器打开<br/>
 如打开慢，缓冲稍等或刷新<br/>
   </tr>
   <tr>
@@ -117,6 +119,7 @@
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FST&from=st?from=wnel">◆◆“三退”到底是件什么事？◆◆</a><br/>
 微信如果提示：停止访问该网页<br/>
 请点击右上角，选择浏览器打开<br/>
+苹果用户复制到自带浏览器打开<br/>
 如打开慢，缓冲稍等或刷新<br/>
   </tr>
   <tr>
@@ -155,6 +158,7 @@
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel">大陆请点击进入动态网址</a><br/>
 微信如果提示：停止访问该网页<br/>
 请点击右上角，选择浏览器打开<br/>
+苹果用户复制到自带浏览器打开<br/>
   </tr>
   <tr>
       <td align=center>
@@ -171,6 +175,9 @@
   </tr>
   <tr>
       <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%971.jpg"/></td>
+  </tr>
+  <tr>
+      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E4.jpg"/></td>
   </tr>
   <tr>
       <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E.jpg"/></td>
