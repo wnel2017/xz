@@ -100,6 +100,7 @@ https://bbm.cn.uptodown.com/iphone <br/>
 （苹果bbm 不需翻墙）<br/>
 https://unseen.is/index-cn.html <br/>
 （需要翻墙，全球安全最佳）<br/>
+unseen适合苹果、安卓、平板、电脑各终端<br/>
   </tr>
   <tr>    
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏7年1.jpg" /></td><br/>
