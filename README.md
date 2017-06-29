@@ -9,9 +9,9 @@
 ◆适合苹果、安卓、平板、电脑<br/>
 ◆其中安卓用户与电脑用户<br/>
 ◆推荐使用谷歌或火狐浏览器<br/>
-<a href="https://chrome.cn.uptodown.com/android">安卓版、 </a>
-<a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
-<a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
+<a href="https://chrome.cn.uptodown.com/android">谷歌安卓版 </a>
+<a href="https://google-chrome.cn.uptodown.com/windows">win版 </a>
+<a href="https://chrome.cn.uptodown.com/iphone">苹果版 </a>
 <a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
 ◆国产浏览器干扰浏览，请卸载<br/>
 ◆2017藏人翻墙最人气软件网门<br/>
@@ -100,7 +100,13 @@ https://bbm.cn.uptodown.com/iphone <br/>
 （苹果bbm 不需翻墙）<br/>
 https://unseen.is/index-cn.html <br/>
 （需要翻墙，全球安全最佳）<br/>
-unseen适合苹果、安卓、平板、电脑各终端<br/>
+unseen适合苹果、安卓、平板、电脑终端<br/>
+◆mega海外安全加密免费50G网盘<br/>
+<a href="https://mega.cn.uptodown.com/android">安卓版mega网盘（不需翻墙）</a><br/>
+<a href="https://chrome.cn.uptodown.com/iphone">苹果版mega网盘（不需翻墙）</a><br/>
+<a href="https://mega.nz/">网页版mega网盘（需要翻墙）</a><br/>
+◆藏人可用mega网盘安全分享<br/>
+◆百度网盘被扫描监控请弃用<br/>
   </tr>
   <tr>    
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏7年1.jpg" /></td><br/>
