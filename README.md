@@ -33,7 +33,7 @@
 ◆◆中共迫害宗教、迫害西藏◆◆<br/>
    </tr>
   <tr>
-   <td align=left>
+<td align=left>
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?http%3A%2F%2F140%2Fgb%2F17%2F3%2F3%2Fn8870896.htm&from=wnel-tibet">◆藏民大规模反抗中共的背后原因</a><br/>
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?http%3A%2F%2F140%2Fgb%2F17%2F2%2F26%2Fn8850163.htm&from=wnel-tibet">◆上七万言书后坐监十年 十世班禅被毒杀
 </a><br/>
@@ -79,7 +79,6 @@
 如打开慢，缓冲稍等或刷新<br/>
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogPipe.aspx?name=http%3A%2F%2F810%2Ftibetan
 &from=wnel">请点击看藏地藏语资讯</a></td>
-
    </tr>
   <tr>
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E8%87%AA%E7%94%B1%E4%BA%9A%E6%B4%B2_%E4%B8%AD%E6%96%87.jpg" /></td>
@@ -107,7 +106,7 @@ unseen适合苹果、安卓、平板、电脑终端<br/>
 ◆藏人可用mega网盘安全分享<br/>
 ◆百度网盘被扫描监控请弃用<br/>
   </tr>
-  <tr>    
+  <tr>
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/西藏7年1.jpg" /></td><br/>
   </tr>
   <tr>
@@ -133,7 +132,7 @@ unseen适合苹果、安卓、平板、电脑终端<br/>
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/共产邪灵.jpg" /></td><br/>
   </tr>
   <tr>
-      <td align=left>
+<td align=left>
 ◆全球热点专辑：震撼世人，引发巨变<br/>
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?4EC%2FJP.mp4&from=wnel">◆◆九评共产党：全球热传18年（必看）</a><br/>
 ◆◆<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?4EC%2FMTDWH.mp4&from=wnel">漫谈党文化</a><br/>
@@ -179,7 +178,7 @@ unseen适合苹果、安卓、平板、电脑终端<br/>
   <tr>
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/3%E9%80%80%E9%80%83%E5%A4%A7%E7%81%BE.jpg"/>       </tr>
   <tr>
-   <td align=center>
+<td align=center>
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?4EC%2FST&from=st?from=wnel">◆◆“三退”到底是件什么事？◆◆</a><br/>
 微信如果提示：停止访问该网页<br/>
 请点击右上角，选择浏览器打开<br/>
@@ -214,7 +213,7 @@ unseen适合苹果、安卓、平板、电脑终端<br/>
 <a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
 <a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
 <a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
-       </td>
+  </td>
   </tr>
   <tr>
 <td align=center>网门 網門<br/>
@@ -222,7 +221,7 @@ unseen适合苹果、安卓、平板、电脑终端<br/>
 https://git.io/ogate <br/>
   </tr>
   <tr>
-    <td align=center>
+<td align=center>
 如打开慢，缓冲稍等或刷新<br/>
   </tr>
   <tr>
@@ -237,24 +236,24 @@ https://git.io/ogate <br/>
 苹果用户复制到自带浏览器打开<br/>
   </tr>
   <tr>
-      <td align=center>
+<td align=center>
 2017年网民翻墙最人气软件<br/>
 安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
 下载网门安卓版更快更方便<br/>
   </tr>
   <tr>
-    <td align=center><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg"/></td>
+<td align=center><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg"/></td>
   </tr>
   <tr>
-      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%971.jpg"/></td>
+<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%971.jpg"/></td>
   </tr>
   <tr>
-      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E4.jpg"/></td>
+<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E4.jpg"/></td>
   </tr>
   <tr>
-      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E.jpg"/></td>  </tr>
+<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E.jpg"/></td>  </tr>
   <tr>
-    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E6%8C%87%E5%8D%97%E6%A1%86.jpg"/></td>
-    </tr>
+<td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E6%8C%87%E5%8D%97%E6%A1%86.jpg"/></td>
+  </tr>
   <tr>
 </table>    
