@@ -102,7 +102,7 @@ https://unseen.is/index-cn.html <br/>
 unseen适合苹果、安卓、平板、电脑终端<br/>
 ◆mega海外安全加密免费50G网盘<br/>
 <a href="https://mega.cn.uptodown.com/android">安卓版mega网盘（不需翻墙）</a><br/>
-<a href="https://chrome.cn.uptodown.com/iphone">苹果版mega网盘（不需翻墙）</a><br/>
+<a href="https://itunes.apple.com/tw/app/mega/id706857885?l=zh">苹果版mega网盘（不需翻墙）</a><br/>
 <a href="https://mega.nz/">网页版mega网盘（需要翻墙）</a><br/>
 ◆藏人可用mega网盘安全分享<br/>
 ◆百度网盘被扫描监控请弃用<br/>
@@ -254,6 +254,7 @@ https://git.io/ogate <br/>
   <tr>
       <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E.jpg"/></td>  </tr>
   <tr>
-    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E6%8C%87%E5%8D%97%E6%A1%86.jpg"/></td>  </tr>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E6%8C%87%E5%8D%97%E6%A1%86.jpg"/></td>
+    </tr>
   <tr>
 </table>    
